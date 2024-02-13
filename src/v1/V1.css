@@ -21,7 +21,7 @@ body {
 
 .container {
   position: relative;
-
+  width: max-content;
   /* width: 100vw;
   height: 100vh; */
 }
@@ -385,21 +385,21 @@ body {
 
 .Type1 .Typewriter__wrapper {
   font-size: 28px;
-  color: red;
+  color: rgb(192, 71, 71);
   font-weight: bold;
   font-family: "Cabin", sans-serif;
 }
 
 .Type2 .Typewriter__wrapper {
   font-size: 20px;
-  color: rgb(255, 52, 52);
+  color: rgb(192, 71, 71);
   font-weight: 600;
   font-family: "Cabin", sans-serif;
 }
 
 .Type3 {
   font-size: 20px;
-  color: rgb(255, 52, 52);
+  color: rgb(192, 71, 71);
   font-weight: 600;
   font-family: "Cabin", sans-serif;
   display: flex;
